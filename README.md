@@ -17,7 +17,7 @@
 | 3 | 1712888 | Nguyễn Đình Tuyên | [Tuyen177](https://github.com/Tuyen177) |
 
 3. Phân công công việc:
-- [Google Sheet]()
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1eKbhc6rpNsDoBfTC8SfAnlKiw_y3_OvHUefUuxQw8BI/edit#gid=621371829)
 
 ## Mô tả bài toán:
 - **Tên cuộc thi:** [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction/data?select=test.csv)
