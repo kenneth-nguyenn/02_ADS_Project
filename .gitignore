@@ -1,5 +1,8 @@
 # Jupyer notebook files
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # Git files
-.git
+.git/
+
+# File data so large
+ventilator-pressure-prediction/
