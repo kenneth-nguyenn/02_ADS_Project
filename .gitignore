@@ -1,0 +1,5 @@
+# Jupyer notebook files
+.ipynb_checkpoints
+
+# Git files
+.git
